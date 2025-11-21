@@ -17,7 +17,7 @@ This project involves a structured data science assignment where the goal was to
 ## Tools and Environment
 - Python 3 with libraries: pandas, numpy, matplotlib, seaborn, scikit-learn.
 - Google Colab as the primary interface for notebook execution.
-- GitHub or Google Drive for file and project organization.
+- GitHub for file and project organization.
 
 ## Summary
 This analysis provides valuable insights on how trading parameters respond to market emotional states, helping to uncover subtle signals that could improve trading decisions and risk management.
